@@ -1,0 +1,50 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints"/>
+ <ExecutionProfileWindow/>
+ <FrameBuffer/>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="ble_app_template_pca10040_s132"/>
+  <ProjectSessionItem path="ble_app_template_pca10040_s132;ble_app_template_pca10040_s132"/>
+  <ProjectSessionItem path="ble_app_template_pca10040_s132;ble_app_template_pca10040_s132;Application"/>
+  <ProjectSessionItem path="ble_app_template_pca10040_s132;ble_app_template_pca10040_s132;nRF_BLE"/>
+  <ProjectSessionItem path="ble_app_template_pca10040_s132;ble_app_template_pca10040_s132;nRF_Segger_RTT"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="650" useTextEdit="1" path="../../../main.c" left="0" selected="1" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="5" y="32" useTextEdit="1" path="ble_cus.c" left="0" top="16" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="11" y="11375" useTextEdit="1" path="../config/sdk_config.h" left="0" top="11367" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="ble_cus.h" left="0" top="7" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="19" y="73" useTextEdit="1" path="../../../../../../external/segger_rtt/SEGGER_RTT_Syscalls_SES.c" left="0" top="57" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="30" y="159" useTextEdit="1" path="bsp_btn_ble.c" left="0" top="148" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="19" y="74" useTextEdit="1" path="C:/Users/Puru Aniket/Downloads/SEGGER_RTT_Syscalls_SES.c" left="0" top="59" codecName="Default"/>
+ </Files>
+ <EMStudioWindow activeProject="ble_app_template_pca10040_s132" fileDialogDefaultFilter="*" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="C:/nRF5_SDK_17.1.0_ddde560/examples/myProject/custom_ble_service_exampl/pca10040/s132/ses" debugSearchPath="" autoConnectCapabilities="3711"/>
+</session>
